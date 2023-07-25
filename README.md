@@ -4,15 +4,12 @@ SINATRA is an all-in-one and automatic approach that helps to bridge the gaps  o
 <p>
 The Source code of the SINATRA approach is here: https://github.com/Cabi-96/STI-Thesis .
 </p>
-<p>
-For more details about the results of evalution are here: https://github.com/123rabida123/Datasets-and-Results-of-evaluation-SDA
-</p>
-<p>
+<h3>
  Evaluation of Sinatra
-</p>
-
+</h3>
+<p>
 For more details about the results of evalution are here: https://github.com/123rabida123/Datasets-and-Results-of-evaluation-SDA
-
+</p>
 <br>
 <h2>Installation and Run</h2>
 
